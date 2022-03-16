@@ -1,9 +1,13 @@
-Template for the Read the Docs tutorial
-=======================================
+EVE OS Testplan
+===============
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This is the source code repo for the EVE OS testplan documentation.
 
-Read the tutorial here:
+If you want to improve any aspect of this document, please send a
+GitHub Pull Request to:
 
-https://docs.readthedocs.io/en/stable/tutorial/
+https://github.com/lucas-zededa/eve-os-testplan
+
+The documentation link in Read The Docs is:
+
+https://eve-os-testplan.readthedocs.io/
