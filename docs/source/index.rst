@@ -1,3 +1,4 @@
+============
 EVE Testplan
 ============
 
@@ -19,3 +20,6 @@ Contents
 
    introduction
    goals
+   scope
+   strategy
+   requirements
