@@ -1,9 +1,0 @@
-Requirements
-============
-
-Hardware
---------
-
-Environment
------------
-

@@ -27,4 +27,3 @@ Contents
    goals
    scope
    strategy
-   requirements
