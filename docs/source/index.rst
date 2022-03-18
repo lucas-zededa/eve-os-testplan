@@ -13,6 +13,11 @@ consolidation and application multi-tenancy.
 
 This is a document that covers the testplan for EVE OS.
 
+Glossary
+========
+
+* SUT - System Under Test, software/hardware combination that we aim to test.
+
 Contents
 --------
 
